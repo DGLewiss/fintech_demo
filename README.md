@@ -10,3 +10,5 @@ Some workds
 ### A Sub Sub Tile 
 
 So on 
+
+Making changes offline on Vscode on my mac
